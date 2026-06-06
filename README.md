@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+## NAME: S PRAVEEN
+## REG NO: 2305001027
 
 
 ## AIM: 
@@ -37,6 +39,7 @@ return 0;
 ```
 ## OUTPUT:
 
+<img width="815" height="230" alt="image" src="https://github.com/user-attachments/assets/060b4a85-fb42-444c-a2f8-bd82fc95e6c6" />
 
 ## RESULT:
 Hence the experiment has been executed successfully
